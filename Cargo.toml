@@ -112,7 +112,7 @@ icu_segmenter = "1.5.0"
 image = { version = "0.25", default-features = false, features = ["avif", "rayon", "bmp", "gif", "ico", "jpeg", "png", "webp"] }
 imsz = "0.4"
 indexmap = { version = "2.11.4", features = ["std"] }
-ipc-channel = { git = "https://github.com/nortti0/ipc-channel", rev = "28462d9742c1996eeec5c6c323d8017b9b62a48c" }
+ipc-channel = { git = "https://github.com/nortti0/ipc-channel", rev = "a9f78181e6fc51d9c8d383067ffe7e814fb8fc39" }
 itertools = "0.14"
 js = { package = "mozjs", version = "=0.15.5", default-features = false, features = ["libz-sys", "intl"] }
 keyboard-types = { version = "0.8.3", features = ["serde", "webdriver"] }
